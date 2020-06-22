@@ -1,0 +1,979 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  25 FEB 2020 12:28
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**Exo_Lucain.tex
+(./Exo_Lucain.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...  \documentclass[12pt, a4paper]{report} ﻿
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ﻿ in font [lmroman12-regular]:mapping=tex-text;!
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2018/02/04 v3.4b French support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen105
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@dirlevel=\count89
+)
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count90
+Package french.ldf Info: No need for active punctuation characters
+(french.ldf)             with this version of XeTeX!
+(french.ldf)             reported on input line 323.
+\FB@punctthick=\XeTeXcharclass1
+\FB@punctthin=\XeTeXcharclass2
+\FB@punctnul=\XeTeXcharclass3
+\FB@guilo=\XeTeXcharclass4
+\FB@guilf=\XeTeXcharclass5
+\FB@guilnul=\XeTeXcharclass6
+\FBguill@level=\count91
+\FB@everypar=\toks17
+\FB@Mht=\dimen106
+LaTeX Info: Redefining \degres on input line 753.
+\mc@charclass=\count92
+\mc@charfam=\count93
+\mc@charslot=\count94
+\std@mcc=\count95
+\dec@mcc=\count96
+\c@FBcaption@count=\count97
+\listindentFB=\skip43
+\descindentFB=\skip44
+\labelwidthFB=\skip45
+\leftmarginFB=\skip46
+\parindentFFN=\dimen107
+\FBfnindent=\skip47
+))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/reledmac/reledmac.sty
+Package: reledmac 2018/02/28 v2.26.6 typesetting critical editions
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count98
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xargs/xargs.sty
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+\xargs@max=\count99
+\xargs@toksa=\toks20
+\xargs@toksb=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count100
+\l_tmpa_int=\count101
+\l_tmpb_int=\count102
+\g_tmpa_int=\count103
+\g_tmpb_int=\count104
+\g__intarray_font_int=\count105
+\g__prg_map_int=\count106
+\c_log_iow=\count107
+\l_iow_line_count_int=\count108
+\l__iow_line_target_int=\count109
+\l__iow_one_indent_int=\count110
+\l__iow_indent_int=\count111
+\c_zero_dim=\dimen108
+\c_max_dim=\dimen109
+\l_tmpa_dim=\dimen110
+\l_tmpb_dim=\dimen111
+\g_tmpa_dim=\dimen112
+\g_tmpb_dim=\dimen113
+\c_zero_skip=\skip48
+\c_max_skip=\skip49
+\l_tmpa_skip=\skip50
+\l_tmpb_skip=\skip51
+\g_tmpa_skip=\skip52
+\g_tmpb_skip=\skip53
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count112
+\c__fp_leading_shift_int=\count113
+\c__fp_middle_shift_int=\count114
+\c__fp_trailing_shift_int=\count115
+\c__fp_big_leading_shift_int=\count116
+\c__fp_big_middle_shift_int=\count117
+\c__fp_big_trailing_shift_int=\count118
+\c__fp_Bigg_leading_shift_int=\count119
+\c__fp_Bigg_middle_shift_int=\count120
+\c__fp_Bigg_trailing_shift_int=\count121
+\l__sort_length_int=\count122
+\l__sort_min_int=\count123
+\l__sort_top_int=\count124
+\l__sort_max_int=\count125
+\l__sort_true_max_int=\count126
+\l__sort_block_int=\count127
+\l__sort_begin_int=\count128
+\l__sort_end_int=\count129
+\l__sort_A_int=\count130
+\l__sort_B_int=\count131
+\l__sort_C_int=\count132
+\l__tl_build_start_index_int=\count133
+\l__tl_build_index_int=\count134
+\l__tl_analysis_normal_int=\count135
+\l__tl_analysis_index_int=\count136
+\l__tl_analysis_nesting_int=\count137
+\l__tl_analysis_type_int=\count138
+\l__regex_internal_a_int=\count139
+\l__regex_internal_b_int=\count140
+\l__regex_internal_c_int=\count141
+\l__regex_balance_int=\count142
+\l__regex_group_level_int=\count143
+\l__regex_mode_int=\count144
+\c__regex_cs_in_class_mode_int=\count145
+\c__regex_cs_mode_int=\count146
+\l__regex_catcodes_int=\count147
+\l__regex_default_catcodes_int=\count148
+\c__regex_catcode_L_int=\count149
+\c__regex_catcode_O_int=\count150
+\c__regex_catcode_A_int=\count151
+\c__regex_all_catcodes_int=\count152
+\l__regex_show_lines_int=\count153
+\l__regex_min_state_int=\count154
+\l__regex_max_state_int=\count155
+\l__regex_left_state_int=\count156
+\l__regex_right_state_int=\count157
+\l__regex_capturing_group_int=\count158
+\l__regex_min_pos_int=\count159
+\l__regex_max_pos_int=\count160
+\l__regex_curr_pos_int=\count161
+\l__regex_start_pos_int=\count162
+\l__regex_success_pos_int=\count163
+\l__regex_curr_char_int=\count164
+\l__regex_curr_catcode_int=\count165
+\l__regex_last_char_int=\count166
+\l__regex_case_changed_char_int=\count167
+\l__regex_curr_state_int=\count168
+\l__regex_step_int=\count169
+\l__regex_min_active_int=\count170
+\l__regex_max_active_int=\count171
+\l__regex_replacement_csnames_int=\count172
+\l__regex_match_count_int=\count173
+\l__regex_min_submatch_int=\count174
+\l__regex_submatch_int=\count175
+\l__regex_zeroth_submatch_int=\count176
+\g__regex_trace_regex_int=\count177
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen114
+\l__box_bottom_dim=\dimen115
+\l__box_left_dim=\dimen116
+\l__box_right_dim=\dimen117
+\l__box_top_new_dim=\dimen118
+\l__box_bottom_new_dim=\dimen119
+\l__box_left_new_dim=\dimen120
+\l__box_right_new_dim=\dimen121
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen122
+\l__coffin_offset_x_dim=\dimen123
+\l__coffin_offset_y_dim=\dimen124
+\l__coffin_x_dim=\dimen125
+\l__coffin_y_dim=\dimen126
+\l__coffin_x_prime_dim=\dimen127
+\l__coffin_y_prime_dim=\dimen128
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen129
+\l__coffin_display_x_dim=\dimen130
+\l__coffin_display_y_dim=\dimen131
+\l__coffin_bounding_shift_dim=\dimen132
+\l__coffin_left_corner_dim=\dimen133
+\l__coffin_right_corner_dim=\dimen134
+\l__coffin_bottom_corner_dim=\dimen135
+\l__coffin_top_corner_dim=\dimen136
+\l__coffin_scaled_total_height_dim=\dimen137
+\l__coffin_scaled_width_dim=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count178
+\l__driver_tmp_box=\box41
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count179
+\g__xparse_grabber_int=\count180
+\l__xparse_m_args_int=\count181
+\l__xparse_mandatory_args_int=\count182
+\l__xparse_v_nesting_int=\count183
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count184
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count185
+\decimalpart=\count186
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip54
+\RaggedLeftLeftskip=\skip55
+\RaggedRightLeftskip=\skip56
+\CenteringRightskip=\skip57
+\RaggedLeftRightskip=\skip58
+\RaggedRightRightskip=\skip59
+\CenteringParfillskip=\skip60
+\RaggedLeftParfillskip=\skip61
+\RaggedRightParfillskip=\skip62
+\JustifyingParfillskip=\skip63
+\CenteringParindent=\skip64
+\RaggedLeftParindent=\skip65
+\RaggedRightParindent=\skip66
+\JustifyingParindent=\skip67
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@l@dtempcnta=\count187
+\@l@dtempcntb=\count188
+\l@dnumpstartsL=\count189
+\section@num=\count190
+\pausenumbering@page@num=\count191
+\led@toksa=\toks22
+\led@toksb=\toks23
+\line@margin=\count192
+\line@margin@columns=\count193
+\c@firstlinenum=\count194
+\c@linenumincrement=\count195
+\c@firstsublinenum=\count196
+\c@sublinenumincrement=\count197
+\lock@disp=\count198
+\sublock@disp=\count199
+\linenumsep=\skip68
+\line@num=\count266
+\subline@num=\count267
+\absline@num=\count268
+\@lock=\count269
+\sub@lock=\count270
+\page@num=\count271
+\endpage@num=\count272
+\endline@num=\count273
+\endsubline@num=\count274
+\this@section@page@num=\count275
+\@inputcheck=\read1
+\last@page@num=\count276
+\this@section@last@page@num=\count277
+\insert@count=\count278
+\linenum@out=\write4
+\@edtext@level=\count279
+\c@edtext=\count280
+\raw@text=\box42
+\num@lines=\count281
+\one@line=\box43
+\par@line=\count282
+\pstarts@typeset@L=\count283
+\pstarts@read@L=\count284
+\c@pstart=\count285
+\ballast@count=\count286
+\c@ballast=\count287
+\@k=\count288
+\@h=\dimen139
+\old@hsize=\dimen140
+\Afootins=\insert252
+\mpAfootins=\insert251
+\Aprevpage@num=\count289
+\Aprevpage@numR=\count290
+\footinsA=\insert250
+\mpfootinsA=\insert249
+\c@footnoteA=\count291
+\footnoteA@reading=\count292
+\prevpageA@num=\count293
+\prevpageA@numR=\count294
+\l@d@Aend=\write5
+\Aend@bysection=\count295
+\Bfootins=\insert248
+\mpBfootins=\insert247
+\Bprevpage@num=\count296
+\Bprevpage@numR=\count297
+\footinsB=\insert246
+\mpfootinsB=\insert245
+\c@footnoteB=\count298
+\footnoteB@reading=\count299
+\prevpageB@num=\count300
+\prevpageB@numR=\count301
+\l@d@Bend=\write6
+\Bend@bysection=\count302
+\Cfootins=\insert244
+\mpCfootins=\insert243
+\Cprevpage@num=\count303
+\Cprevpage@numR=\count304
+\footinsC=\insert242
+\mpfootinsC=\insert241
+\c@footnoteC=\count305
+\footnoteC@reading=\count306
+\prevpageC@num=\count307
+\prevpageC@numR=\count308
+\l@d@Cend=\write7
+\Cend@bysection=\count309
+\Dfootins=\insert240
+\mpDfootins=\insert239
+\Dprevpage@num=\count310
+\Dprevpage@numR=\count311
+\footinsD=\insert238
+\mpfootinsD=\insert237
+\c@footnoteD=\count312
+\footnoteD@reading=\count313
+\prevpageD@num=\count314
+\prevpageD@numR=\count315
+\l@d@Dend=\write8
+\Dend@bysection=\count316
+\Efootins=\insert236
+\mpEfootins=\insert235
+\Eprevpage@num=\count317
+\Eprevpage@numR=\count318
+\footinsE=\insert234
+\mpfootinsE=\insert233
+\c@footnoteE=\count319
+\footnoteE@reading=\count320
+\prevpageE@num=\count321
+\prevpageE@numR=\count322
+\l@d@Eend=\write9
+\Eend@bysection=\count323
+\c@line=\count324
+\c@subline=\count325
+\c@absline=\count326
+\sidenote@margin=\count327
+\l@dlp@rbox=\box44
+\l@drp@rbox=\box45
+\ledlsnotewidth=\dimen141
+\ledrsnotewidth=\dimen142
+\ledlsnotesep=\dimen143
+\ledrsnotesep=\dimen144
+\c@labidx=\count328
+\c@pageline=\count329
+\@edindex@fornote@=\count330
+\stanza@count=\count331
+\stanzaindentbase=\skip69
+\c@stanzaindentsrepetition=\count332
+\stanza@modulo=\count333
+\c@stanza=\count334
+\@emptytoks=\toks24
+\l@denvbody=\toks25
+\l@dampcount=\count335
+\l@dcolcount=\count336
+\hilfsbox=\box46
+\hilfsskip=\skip70
+\Hilfsbox=\box47
+\hilfscount=\count337
+\dcoli=\dimen145
+\dcolii=\dimen146
+\dcoliii=\dimen147
+\dcoliv=\dimen148
+\dcolv=\dimen149
+\dcolvi=\dimen150
+\dcolvii=\dimen151
+\dcolviii=\dimen152
+\dcolix=\dimen153
+\dcolx=\dimen154
+\dcolxi=\dimen155
+\dcolxii=\dimen156
+\dcolxiii=\dimen157
+\dcolxiv=\dimen158
+\dcolxv=\dimen159
+\dcolxvi=\dimen160
+\dcolxvii=\dimen161
+\dcolxviii=\dimen162
+\dcolxix=\dimen163
+\dcolxx=\dimen164
+\dcolxxi=\dimen165
+\dcolxxii=\dimen166
+\dcolxxiii=\dimen167
+\dcolxxiv=\dimen168
+\dcolxxv=\dimen169
+\dcolxxvi=\dimen170
+\dcolxxvii=\dimen171
+\dcolxxviii=\dimen172
+\dcolxxix=\dimen173
+\dcolxxx=\dimen174
+\dcolerr=\dimen175
+\edtabcolsep=\skip71
+\edfilldimen=\dimen176
+\c@addcolcount=\count338
+\HILFSskip=\skip72
+\Hilfsskip=\skip73
+\tabhilfbox=\box48
+\tabHilfbox=\box49
+\eled@sectioning@out=\write10
+)
+No file Exo_Lucain.aux.
+\openout1 = `Exo_Lucain.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \dots on input line 13.
+LaTeX Info: Redefining \up on input line 13.
+
+Package french.ldf Warning: Add \usepackage{fontspec} to the
+(french.ldf)                preamble of your document, reported on input line 1
+3.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 13.
+ Section 1
+
+Package reledmac Warning: File `Exo_Lucain.1' not found on input line 18.
+
+\openout4 = `Exo_Lucain.1'.
+
+\openout5 = `Exo_Lucain.Aend'.
+
+\openout6 = `Exo_Lucain.Bend'.
+
+\openout7 = `Exo_Lucain.Cend'.
+
+\openout8 = `Exo_Lucain.Dend'.
+
+\openout9 = `Exo_Lucain.Eend'.
+
+
+Package reledmac Warning: File `Exo_Lucain.eledsec1' not found on input line 18
+.
+
+\openout10 = `Exo_Lucain.eledsec1'.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64                     ceperat}{/Afootnote{,S}}
+                                                 . Vt uentum. est parui Rubi...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...                undas}{/Afootnote{,Z1,Ca}}
+                                                  ,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71                     ultra}{/Afootnote{,p,m}}
+                                                  ?
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73                     uiri}{/Afootnote{,Z}}
+                                              ? Si iure uenitis,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ...unc}{/Afootnote{,M A B C E F G S Q P V L}}
+                                                   perculit horror
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 ...               gressumque}{/Afootnote{,S}}
+                                                   cohercens,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79                     ait}{/Afootnote{,Z1}}
+                                               :« O magnae qui moenia pros...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 ...                Iuleae}{/Afootnote{,M1 Q}}
+                                                   et rapti secreta Quirini
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...ote{,z,M A B C E F G S Q Z P L N Q S U V}}
+                                                   Iuppiter \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85                     Alba}{/Afootnote{,M1}}
+                                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93                     sicut}{/Afootnote{,m u}}
+                                                  squalentihus aruis
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...               aestiferae}{/Afootnote{,C}}
+                                                   \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 ...             Libyes uiso}{/Afootnote{,IS}}
+                                                   leo \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97                     comminus}{/Afootnote{,Z}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99                     hoste}{/Afootnote{,IS}}
+                                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 ...               subsedit}{/Afootnote{,IS}}
+                                                   dubius, totam dum \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ...               colligit}{/Afootnote{,M1}}
+                                                   iram
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...           iubam}{/Afootnote{,V M1 P1 U}}
+                                                   et \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107                     uasto}{/Afootnote{,p}}
+                                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 ...extit{omisit},C A B E F L M N Q S U V}{}}
+                                                   murmur hiatu
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...              tunc}{/Afootnote{,M U G Q}}
+                                                  , torta leuis \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112                     si}{/Afootnote{,M1}}
+                                               lancea Mauri
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ...             inpellitur}{/Afootnote{,P1}}
+                                                   undis
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...             Rubicon}{/Afootnote{,M1,G1}}
+                                                  , cum feruida canduit \edt...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119                     aestas}{/Afootnote{,M1}}
+                                                  ,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 ...             Tum}{/Afootnote{,V M U S Q}}
+                                                   uires \edtext{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 ...              praebebat}{/Afootnote{,P1}}
+                                                   hiemps, atque auxerat undas
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126                     grauido}{/Afootnote{,g}}
+                                                   pluuialis Cynthia cornu
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package reledmac Error: edtext without Xfootnote. Check syntaxis.
+
+See the reledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129                     Primus}{/Afootnote{,P}}
+                                                  in obliquum sonipes opponi...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! You can't use `\lastbox' in vertical mode.
+\do@line ...e \global \setbox \one@line =\lastbox 
+                                                  \getline@num \IfStrEq {\le...
+l.135          \endnumbering
+                             \end{document}
+Sorry...I usually can't take things from the current page.
+This \lastbox will therefore be void.
+
+reledmac reminder: 
+ The number of the footnotes in this section has changed since the last run.
+ You will need to run LaTeX two more times before the footnote placement
+ and line numbering in this section are correct.
+[1
+
+] (./Exo_Lucain.aux) ) 
+Here is how much of TeX's memory you used:
+ 14016 strings out of 493007
+ 260566 string characters out of 6136719
+ 347254 words of memory out of 5000000
+ 17940 multiletter control sequences out of 15000+600000
+ 543523 words of font info for 27 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 39i,4n,43p,10417b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Exo_Lucain.pdf (1 page).
